@@ -59,9 +59,9 @@ export default {
         ),
       },
       theme: {
-        title: "myAuth",
+        title: "SoleCheck Auth",
         primary: "#0051c3",
-        favicon: "https://workers.cloudflare.com//favicon.ico",
+        favicon: "https://solecheck.info/media/images/favicon.ico",
         logo: {
           dark: "https://solecheck.info/media/images/logo.png",
           light:
